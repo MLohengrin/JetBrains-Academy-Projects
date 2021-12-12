@@ -1,6 +1,6 @@
 # JetBrains-Academy-Projects
 
-![](https://github.com/MLohengrin/hello-world/blob/master/green.svg)
+![](https://badgen.net/badge/code/python/green)
 
 Projects related to JetBrains Academy's tasks
 
