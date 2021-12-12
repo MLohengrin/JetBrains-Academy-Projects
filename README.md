@@ -1,8 +1,6 @@
-# JetBrains-Academy-Projects
+# JetBrains Academy Projects
 
-![](https://github.com/MLohengrin/hello-world/blob/master/green.svg)
-
-Projects related to JetBrains Academy's tasks
+My implementation to some projects included into [JetBrains Academy's](https://www.jetbrains.com/academy/) Python track.
 
 * [Projects Description](#projects-description)
   * [Easy](#easy)
@@ -23,7 +21,7 @@ Projects related to JetBrains Academy's tasks
     * [Password Hacker](#password-hacker)
     * [Static Code Analyzer](#static-code-analyzer)
     * [Flashcards](#flashcards)
-  * [No more available (probably deprecated)](#no-more-available-(probably-deprecated))
+  * [No more available (maybe deprecated)](#no-more-available-(maybe-deprecated))
     * [Simple Banking System](#simple-banking-system)
     * [Convoy Shipping Company](#convoy-shipping-company)
     * [Numeric Matrix Processor](#numeric-matrix-processor)
@@ -31,6 +29,16 @@ Projects related to JetBrains Academy's tasks
     * [Memorization Tool](#memorization-tool)
 
 ## Projects Description
+
+In each Track, Projects are divide into 4 categories, based on the difficulty associated with the tasks to be accomplished.
+There is a fifth block of project, related to that no more available for completion on the platform (maybe deprecated).
+
+Here follow the list of the Projects I completed so far, divided into the aforementioned levels of difficulty, and structured in the following way:
+
+- **About**: General description about the tasks related to the Project.
+- **Learning outcomes**: What were the ideal objectives accomplished through the completion of the Project.
+- **JetBrains Academy Link**: Link to the Project on the JetBrains Academy platform (which includes more details about it).
+- **Project Implementation**: Quick link to the .py file on this repository, which successfully solved the last stage of the Project.
 
 ### Easy
 
@@ -208,7 +216,7 @@ In this project, you will learn how to work with files and call them from the co
 
 ##### [JetBrains Academy Link](https://hyperskill.org/projects/127) / [Project Implementation](https://github.com/MLohengrin/JetBrains-Academy-Projects/blob/master/Sources/flashcards.py)
 
-### No more available (probably deprecated)
+### No more available (maybe deprecated)
 
 #### Simple Banking System
 
