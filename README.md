@@ -1,5 +1,7 @@
 # JetBrains Academy Projects
 
+![](https://badgen.net/badge/code/python/green)
+
 My implementation to some projects included into [JetBrains Academy's](https://www.jetbrains.com/academy/) Python track.
 
 * [Projects Description](#projects-description)
