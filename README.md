@@ -1,4 +1,7 @@
 # JetBrains-Academy-Projects
+
+![](https://github.com/MLohengrin/hello-world/blob/master/green.svg)
+
 Projects related to JetBrains Academy's tasks
 
 * [Projects Description](#projects-description)
