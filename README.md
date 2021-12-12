@@ -32,14 +32,14 @@ My implementation to some projects included into [JetBrains Academy's](https://w
 
 ## Projects Description
 
-In each Track, Projects are divide into 4 categories, based on the difficulty associated with the tasks to be accomplished.
-There is a fifth block of project, related to that no more available for completion on the platform (maybe deprecated).
+In each Track, Projects are divided into 4 categories, based on the difficulty associated with the tasks to be accomplished.
+There is a fifth block of project, related to those no more available for completion on the platform (maybe deprecated).
 
 Here follow the list of the Projects I completed so far, divided into the aforementioned levels of difficulty, and structured in the following way:
 
 - **About**: General description about the tasks related to the Project.
 - **Learning outcomes**: What were the ideal objectives accomplished through the completion of the Project.
-- **JetBrains Academy Link**: Link to the Project on the JetBrains Academy platform (which includes more details about it).
+- **JetBrains Academy Link**: Link to the Project's description on the JetBrains Academy platform (which includes more details about it).
 - **Project Implementation**: Quick link to the .py file on this repository, which successfully solved the last stage of the Project.
 
 ### Easy
