@@ -23,7 +23,7 @@ My implementation to some projects included into [JetBrains Academy's](https://w
     * [Password Hacker](#password-hacker)
     * [Static Code Analyzer](#static-code-analyzer)
     * [Flashcards](#flashcards)
-  * [No more available (maybe deprecated)](#no-more-available-(maybe-deprecated))
+  * [No more available (maybe deprecated)](#no-more-available-maybe-deprecated)
     * [Simple Banking System](#simple-banking-system)
     * [Convoy Shipping Company](#convoy-shipping-company)
     * [Numeric Matrix Processor](#numeric-matrix-processor)
